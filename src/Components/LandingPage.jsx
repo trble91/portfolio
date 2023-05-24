@@ -4,7 +4,7 @@ const LandingPage = () => {
   return (
     <div className="landing-page">
       <h1>Aaron Daley</h1>
-      <img src="your-photo.jpg" alt="Profile" />
+      <img src="" alt="Profile" />
       <p>As a Navy veteran, I developed a sharp eye for identifying gaps in the market. 
         I'm driven to fill them through skillful approach, collaboration, plus continuous learning. 
         Along with building software solutions, my passions for curating music and photography help me to seek innovation and aesthetic in digital product development.</p>
