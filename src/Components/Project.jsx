@@ -21,7 +21,7 @@ const ProjectShowcase = () => {
       technologies: 'React, Node.js, MongoDb, Express',
       role: 'Backend Developer',
       features: 'Built Api, Developed logos and assisted on Frontend',
-      screenshot: 
+      screenshot: ''
     },
     
   ];
