@@ -1,12 +1,12 @@
 import React from 'react' 
-import ThemeSwitcher from './Hooks/ThemeSwitcher'
+import About from './Components/Pages/About.jsx'
 
 
 function App() {
 
   return (
     <>
-    <ThemeSwitcher />
+    <About />
     </>
   )
 }
